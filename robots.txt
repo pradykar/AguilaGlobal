@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aquilaglobalcorp.com/sitemap.xml
+Sitemap: https://aguilaglobalcorp.com/sitemap.xml
